@@ -1,0 +1,23 @@
+.main-header {
+  background-color:#007bff;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.navbar .nav-item {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #fbf7f7;
+  font-weight:bold;
+}
+
+.navbar .nav-item.btn {
+  background-color: #007bff;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+

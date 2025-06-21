@@ -1,0 +1,39 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.main-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-height: 1500px;
+  min-width: 1500px;
+  background-color: aquamarine;
+    left: 50% ;
+}
+
+.content {
+  flex: 1;
+  padding: 1rem;
+  background-color: aquamarine;
+ max-width: 1060px;
+ position: sticky;
+ left: 18% ;
+ top: 20%;
+  
+  
+}
+
+h1, h2 {
+  color: #164676;
+}
+
+.page-container {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 1rem;
+  
+   
+}

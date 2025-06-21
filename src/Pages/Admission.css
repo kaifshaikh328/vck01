@@ -1,0 +1,32 @@
+
+.page-container {
+  background-color: #f3f3f3;
+  padding: 2rem;
+  border-radius: 10px;
+  overflow: scroll;
+}
+
+h1{
+  color: blue;
+}
+
+ .table{
+      width: 80%;
+      border : 1px solid;
+      margin: 20px auto;
+
+
+      border: 1px solid black;
+      padding: 10px;
+      text-align: center;
+
+      background-color: #f2f2f2;
+    }
+    /* }
+    }
+
+       .th-td {
+      
+
+      .th {
+       */

@@ -1,0 +1,16 @@
+.inquire-button {
+  background-color: #28a745; /* Green background */
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: bold;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+.inquire-button:hover {
+  background-color: #218838; /* Darker green on hover */
+}
