@@ -29,7 +29,7 @@ const App=()=>{
          <Route path="/admission"element={<Admission/>}/> 
          <Route path="*"element={<Notfound/>}/> 
       </Routes>
-        <ChatbotComponent></ChatbotComponent>
+     <ChatbotComponent />
       </div>
       <Footer/>
       </div>
