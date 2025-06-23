@@ -12,7 +12,7 @@ import Footer from "./Components/Footer/Footer.jsx";
 
 
 import './App.css'
-import ChatbotComponent from "./Components/Chaatbot/Chatbotcomponents.jsx";
+import ChatbotComponent from "./Components/Chaatbot/chatbotcomponent.jsx";
 
 const App=()=>{
   return(
