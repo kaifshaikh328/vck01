@@ -1,4 +1,8 @@
 .page-container h1 {
-  color: black;
+  color: #333;
   font-size: medium;
+}
+
+#h1 {
+  color: #333;
 }
