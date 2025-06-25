@@ -12,7 +12,7 @@ import Footer from "./Components/Footer/Footer.jsx";
 
 
 import './App.css'
-import ChatbotComponent from "./Components/Chaatbot/Chatbotcomponents.jsx";
+import ChatbotComponent from "./Components/Chaatbot/chatbotcomponent.jsx";
 
 const App=()=>{
   return(
@@ -29,7 +29,7 @@ const App=()=>{
          <Route path="/admission"element={<Admission/>}/> 
          <Route path="*"element={<Notfound/>}/> 
       </Routes>
-        <ChatbotComponent></ChatbotComponent>
+     <ChatbotComponent />
       </div>
       <Footer/>
       </div>
