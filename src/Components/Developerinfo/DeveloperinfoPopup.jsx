@@ -1,4 +1,4 @@
-import './DeveloperInfoPopup.css'
+import './DeveloperinfoPopup.css'
 function DeveloperInfoPopup({ show, onClose, studentName, studentPhotoUrl, uniqueMessage }) {
   if (!show) {
     return null; // Don't render if not visible
