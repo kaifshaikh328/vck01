@@ -17,7 +17,6 @@ body {
 .content {
   flex: 1;
   padding: 1rem;
-  background-color: aquamarine;
  max-width: 1060px;
  position: sticky;
  left: 18% ;
