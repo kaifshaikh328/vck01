@@ -4,6 +4,7 @@ import './Admission.css'
 
 const Admission=()=>{
     return(
+      <div className="content">
         <div className="page-container">
             <h1>Admissions at Vivekanand College</h1>
     <p>Welcome to the Admissions page of Vivekanand College! We are delighted you're considering joining our vibrant academic community. Our admission process is designed to be straightforward and accessible.</p>
@@ -49,6 +50,7 @@ const Admission=()=>{
 
         <p>For detailed information on postgraduate program admissions, specific program syllabi, and fee structures, please visit our <Link className="nav-item" to="/courses">Courses page</Link> or <Link className="nav-item" to="/contact">Contact us </Link>directly.</p>
 
+        </div>
         </div>
     )
 }

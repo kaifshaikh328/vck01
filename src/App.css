@@ -32,7 +32,5 @@ h1, h2 {
 .page-container {
   max-width: 1500px;
   margin: 0 auto;
-  padding: 1rem;
-  
-   
+  padding: 1rem; 
 }
