@@ -1,6 +1,7 @@
 import './Contact.css'
 const Contact=()=>{
     return(
+      <div className='content'>
         <div className="page-container">
              <h1>Contact Us</h1>
       <p>We'd love to hear from you! Whether you have questions about admissions, programs, or campus life, our team is here to help.</p>
@@ -44,8 +45,8 @@ const Contact=()=>{
 
       <h2>Send Us a Message</h2>
       <p>[A contact form with fields for Name, Email, Subject, Message can be added here.]</p>
-
         </div>
+       </div>
     )
 }
 

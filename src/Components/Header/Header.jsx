@@ -5,7 +5,7 @@ const Header=()=>{
   return(
     <header className="main-header">
        {/* <div className="college-name"> */}
-   <h2 id="h2"Link to="/">Vivekanand College</h2> <Link/>
+   <h2 id="heading"Link to="/">Vivekanand College</h2> <Link/>
     {/* </div> */}
       <nav className=" navbar desktop-nav">
      <Link className="nav-item" to="/">Home</Link>

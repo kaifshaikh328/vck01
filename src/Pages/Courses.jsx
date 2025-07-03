@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import './Courses.css'
 const Courses=()=>{
     return(
+      <div className="content">
         <div className="page-container">
     <h1 id="h1">Our Academic Programs</h1>
       
@@ -79,6 +80,7 @@ const Courses=()=>{
     
     <Link to = "/contact"
     className='inquire-button'>inquire button about courses</Link>
+  </div>
   </div>
     )
 }
